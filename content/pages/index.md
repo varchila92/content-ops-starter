@@ -49,7 +49,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Punto de Pago
-        subtitle: Numbers Done
+        subtitle: Punto de venta ICG
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
