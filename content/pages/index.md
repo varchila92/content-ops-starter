@@ -48,7 +48,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Puntos de Pago
+        title: Punto de Pago
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
