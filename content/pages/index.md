@@ -50,10 +50,12 @@ sections:
       - type: FeaturedItem
         title: Punto de Pago
         subtitle: Punto de venta ICG
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          Ofrecemos integraciones personalizadas con puntos de pago líderes como
+          Colocar, Banesco, BAC, Pluxee, Yappy, Crediviva y Banistmo,
+          optimizando tus transacciones y facilitando una experiencia de pago
+          fluida y segura.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
