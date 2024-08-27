@@ -131,7 +131,7 @@ sections:
         type: FeaturedItem
     actions: []
     badge:
-      label: productos
+      label: acerca de nuestros
       color: text-primary
       styles:
         self:
