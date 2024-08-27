@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: desarrollamos a la medida
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Nuestros servicios de desarrollo a medida se centran en crear aplicaciones
+      y sistemas personalizados que resuelven tus desafíos específicos.
+      Aprovechamos las últimas tecnologías para entregar soluciones robustas,
+      escalables y adaptadas a tus objetivos empresariales.
     actions:
       - label: Get started
         altText: ''
