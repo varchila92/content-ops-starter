@@ -45,7 +45,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: top 3
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: 500k
