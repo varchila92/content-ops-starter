@@ -15,7 +15,7 @@ sections:
       escalables y adaptadas a tus objetivos empresariales.
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/HM-UMOptimization800.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
