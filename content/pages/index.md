@@ -39,7 +39,7 @@ sections:
         textAlign: left
   - type: FeaturedItemsSection
     title:
-      text: SERVCIOS
+      text: SERVICIOS
       color: text-dark
       styles:
         self:
