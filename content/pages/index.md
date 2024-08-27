@@ -80,10 +80,12 @@ sections:
               borderRadius: x-large
       - title: Analisis datos
         subtitle: Inteligencia de negocios
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          Transforma tus datos en decisiones estratégicas con nuestro análisis
+          de datos e inteligencia de negocios. Proporcionamos información
+          precisa y procesable para optimizar tu rendimiento y guiar el
+          crecimiento.
         image:
           url: /images/Captura de pantalla 2024-08-27 135959.png
           altText: Featured icon two
