@@ -13,16 +13,7 @@ sections:
       y sistemas personalizados que resuelven tus desafíos específicos.
       Aprovechamos las últimas tecnologías para entregar soluciones robustas,
       escalables y adaptadas a tus objetivos empresariales.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
