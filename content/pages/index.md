@@ -39,21 +39,23 @@ sections:
         textAlign: left
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Insignias
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Punto de Pago
+        subtitle: Punto de venta ICG
+        text: >
+
+          Ofrecemos integraciones personalizadas con puntos de pago líderes como
+          Colocar, Banesco, BAC, Pluxee, Yappy, Crediviva y Banistmo,
+          optimizando tus transacciones y facilitando una experiencia de pago
+          fluida y segura.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -72,18 +74,20 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/Captura de pantalla 2024-08-27 135801.png
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Analisis datos
+        subtitle: Inteligencia de negocios
+        text: >
+
+          Transforma tus datos en decisiones estratégicas con nuestro análisis
+          de datos e inteligencia de negocios. Proporcionamos información
+          precisa y procesable para optimizar tu rendimiento y guiar el
+          crecimiento.
         image:
-          url: /images/icon2.svg
+          url: /images/Captura de pantalla 2024-08-27 135959.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -135,7 +139,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: productos
       color: text-primary
       styles:
         self:
