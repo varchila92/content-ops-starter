@@ -36,6 +36,7 @@ sections:
           - pr-16
       subtitle:
         fontWeight: 700
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
