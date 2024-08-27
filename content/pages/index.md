@@ -735,7 +735,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: vDevCodes
-  metaDescription: Este es un sitio increible para desarrollar
+  metaDescription: Este es un sitio increíble para desarrollar
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
