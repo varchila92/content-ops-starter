@@ -39,7 +39,7 @@ sections:
         textAlign: left
   - type: FeaturedItemsSection
     title:
-      text: Insignias
+      text: SERVICIOS
       color: text-dark
       styles:
         self:
@@ -105,14 +105,15 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Integración
+        subtitle: API soluciones
+        text: >
+
+          Desarrollamos soluciones de API personalizadas que facilitan la
+          integración y comunicación entre sistemas, optimizando procesos y
+          mejorando la interoperabilidad de tus aplicaciones.
         image:
-          url: /images/icon3.svg
+          url: /images/Captura de pantalla 2024-08-27 141421.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -128,18 +129,9 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
-      label: productos
+      label: acerca de nuestros
       color: text-primary
       styles:
         self:
@@ -734,8 +726,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: vDevCodes
+  metaDescription: Este es un sitio increíble para desarrollar
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
