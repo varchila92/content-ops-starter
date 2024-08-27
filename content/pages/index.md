@@ -39,7 +39,7 @@ sections:
         textAlign: left
   - type: FeaturedItemsSection
     title:
-      text: Insignias
+      text: SERVCIOS
       color: text-dark
       styles:
         self:
