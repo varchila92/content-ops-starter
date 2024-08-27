@@ -7,7 +7,7 @@ sections:
       text: Desbloquea a tu equipo y acelera tu tiempo productivo
       color: text-dark
       type: TitleBlock
-    subtitle: desarrollamos a la medida
+    subtitle: desarrollamos soluciones
     text: >
       Nuestros servicios de desarrollo a medida se centran en crear aplicaciones
       y sistemas personalizados que resuelven tus desafíos específicos.
