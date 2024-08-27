@@ -39,7 +39,7 @@ sections:
         textAlign: left
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Insignias
       color: text-dark
       styles:
         self:
