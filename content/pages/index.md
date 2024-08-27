@@ -735,7 +735,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: vDevCodes
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Este es un sitio increible para desarrollar
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
