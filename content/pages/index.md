@@ -107,10 +107,11 @@ sections:
         type: FeaturedItem
       - title: Integración
         subtitle: API soluciones
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          Desarrollamos soluciones de API personalizadas que facilitan la
+          integración y comunicación entre sistemas, optimizando procesos y
+          mejorando la interoperabilidad de tus aplicaciones.
         image:
           url: /images/Captura de pantalla 2024-08-27 141421.png
           altText: Featured icon three
