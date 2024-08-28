@@ -478,8 +478,8 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
+        label: Enviar
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
