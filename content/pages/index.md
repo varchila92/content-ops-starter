@@ -150,7 +150,7 @@ sections:
         textAlign: center
   - subtitle: Empresas que confían en nosotros.
     images:
-      - altText: Empathy logo
+      - altText: GRUPO DAVID
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
