@@ -160,7 +160,7 @@ sections:
         altText: PLUXEE
         type: ImageBlock
       - url: /images/telus-logo.svg
-        altText: Telus logo
+        altText: BANESCO
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
