@@ -452,7 +452,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Correo electronico
+          placeholder: Correo electrónico
           isRequired: true
           width: full
           type: EmailFormControl
