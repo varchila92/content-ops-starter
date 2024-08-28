@@ -726,7 +726,7 @@ sections:
 seo:
   metaTitle: vDevCodes
   metaDescription: Este es un sitio increíble para desarrollar
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Captura de pantalla 2024-08-27 121038.png
   type: Seo
 type: PageLayout
 ---
