@@ -49,16 +49,22 @@ sections:
     items:
       - type: FeaturedItem
         title: Punto de Pago
+        tagline: ''
         subtitle: Punto de venta ICG
         text: >
-
           Ofrecemos integraciones personalizadas con puntos de pago líderes como
           Colocar, Banesco, BAC, Pluxee, Yappy, Crediviva y Banistmo,
           optimizando tus transacciones y facilitando una experiencia de pago
           fluida y segura.
+        image:
+          type: ImageBlock
+          url: /images/Captura de pantalla 2024-08-27 135801.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -68,31 +74,24 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/Captura de pantalla 2024-08-27 135801.png
-          styles:
-            self:
-              borderRadius: x-large
-      - title: Analisis datos
+      - type: FeaturedItem
+        title: Analisis datos
+        tagline: ''
         subtitle: Inteligencia de negocios
         text: >
-
           Transforma tus datos en decisiones estratégicas con nuestro análisis
           de datos e inteligencia de negocios. Proporcionamos información
           precisa y procesable para optimizar tu rendimiento y guiar el
           crecimiento.
         image:
-          url: /images/Captura de pantalla 2024-08-27 135959.png
-          altText: Featured icon two
-          elementId: ''
           type: ImageBlock
+          url: /images/Captura de pantalla 2024-08-27 135959.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -102,9 +101,30 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
+      - type: FeaturedItem
+        title: Feature Item One
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
       - title: Integración
         subtitle: API soluciones
         text: >
