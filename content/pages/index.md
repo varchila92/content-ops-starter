@@ -153,7 +153,7 @@ sections:
       - altText: GRUPO DAVID
         type: ImageBlock
         url: /images/gd_logo.jpg
-      - url: /images/wellster-logo.svg
+      - url: /images/sp_logo.jpg
         altText: SUPERPISOS
         type: ImageBlock
       - url: /images/vise-logo.svg
