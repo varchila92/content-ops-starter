@@ -101,33 +101,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-      - title: Analisis datos
-        subtitle: Inteligencia de negocios
-        text: >
-
-          Transforma tus datos en decisiones estratégicas con nuestro análisis
-          de datos e inteligencia de negocios. Proporcionamos información
-          precisa y procesable para optimizar tu rendimiento y guiar el
-          crecimiento.
-        image:
-          url: /images/Captura de pantalla 2024-08-27 135959.png
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - title: Integración
         subtitle: API soluciones
         text: >
