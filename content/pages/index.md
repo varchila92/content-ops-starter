@@ -105,8 +105,10 @@ sections:
         title: Integración
         tagline: ''
         subtitle: API soluciones
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Desarrollamos soluciones de API personalizadas que facilitan la
+          integración y comunicación entre sistemas, optimizando procesos y
+          mejorando la interoperabilidad de tus aplicaciones.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
