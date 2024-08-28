@@ -89,7 +89,7 @@ sections:
           fluida y segura.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Captura de pantalla 2024-08-27 135801.png
           altText: Placeholder text
           styles:
             self:
