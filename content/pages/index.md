@@ -436,7 +436,8 @@ sections:
     subtitle: ''
     text: |+
       ```
-      Víctor Archila
+
+
       ```
 
     media:
