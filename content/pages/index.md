@@ -154,7 +154,7 @@ sections:
         type: ImageBlock
         url: /images/gd_logo.jpg
       - url: /images/wellster-logo.svg
-        altText: Wellster logo
+        altText: SUPERPISOS
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
