@@ -434,15 +434,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |+
-      Víctor Archila<br>
-      Arquitecto de Soluciones<br>
-      varchila92@gmail.com<br>
-      +507 6459-3801<br>
+    text: |
+      **Víctor Archila**
+      Arquitecto de Soluciones
+      <varchila92@gmail.com>
+      +507 6459-3801
       Panamá, Ciudad de Panamá
-
-
-
     media:
       fields:
         - name: name
