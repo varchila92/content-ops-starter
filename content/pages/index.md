@@ -104,7 +104,7 @@ sections:
       - type: FeaturedItem
         title: Integración
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: API soluciones
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
