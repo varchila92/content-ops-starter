@@ -81,7 +81,7 @@ sections:
       - type: FeaturedItem
         title: Punto de Pago
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Punto de venta ICG
         text: >
           Ofrecemos integraciones personalizadas con puntos de pago líderes como
           Colocar, Banesco, BAC, Pluxee, Yappy, Crediviva y Banistmo,
