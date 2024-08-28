@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/vDevCodes_l.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
