@@ -82,8 +82,11 @@ sections:
         title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Transforma tus datos en decisiones estratégicas con nuestro análisis
+          de datos e inteligencia de negocios. Proporcionamos información
+          precisa y procesable para optimizar tu rendimiento y guiar el
+          crecimiento.
         image:
           type: ImageBlock
           url: /images/Captura de pantalla 2024-08-27 135959.png
