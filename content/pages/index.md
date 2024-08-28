@@ -79,7 +79,7 @@ sections:
             self:
               borderRadius: x-large
       - type: FeaturedItem
-        title: Feature Item One
+        title: Punto de Pago
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
