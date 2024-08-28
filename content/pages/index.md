@@ -82,8 +82,11 @@ sections:
         title: Punto de Pago
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Ofrecemos integraciones personalizadas con puntos de pago líderes como
+          Colocar, Banesco, BAC, Pluxee, Yappy, Crediviva y Banistmo,
+          optimizando tus transacciones y facilitando una experiencia de pago
+          fluida y segura.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
