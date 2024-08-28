@@ -102,7 +102,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item One
+        title: Integración
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
