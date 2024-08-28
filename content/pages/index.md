@@ -157,7 +157,7 @@ sections:
         altText: SUPERPISOS
         type: ImageBlock
       - url: /images/vise-logo.svg
-        altText: Vise logo
+        altText: PLUXEE
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
