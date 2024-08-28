@@ -166,7 +166,7 @@ sections:
         altText: ORGANICA
         type: ImageBlock
       - url: /images/sanity-logo.svg
-        altText: Sanity logo
+        altText: CLUB UNION
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
