@@ -435,8 +435,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      **Víctor Archila**\\
-
+      **Víctor Archila**
 
       **Arquitecto de Soluciones**
       [varchila92@gmail.com]()
