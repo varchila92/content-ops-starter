@@ -152,6 +152,7 @@ sections:
     images:
       - altText: GRUPO DAVID
         type: ImageBlock
+        url: /images/gd_logo.jpg
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
