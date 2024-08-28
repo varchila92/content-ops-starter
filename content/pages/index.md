@@ -479,7 +479,7 @@ sections:
       submitButton:
         type: SubmitButtonFormControl
         label: Enviar
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
