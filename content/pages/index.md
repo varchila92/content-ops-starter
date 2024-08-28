@@ -127,30 +127,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-      - title: Integración
-        subtitle: API soluciones
-        text: >
-
-          Desarrollamos soluciones de API personalizadas que facilitan la
-          integración y comunicación entre sistemas, optimizando procesos y
-          mejorando la interoperabilidad de tus aplicaciones.
-        image:
-          url: /images/Captura de pantalla 2024-08-27 141421.png
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
     actions: []
     badge:
       label: acerca de nuestros
