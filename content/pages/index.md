@@ -79,7 +79,7 @@ sections:
             self:
               borderRadius: x-large
       - type: FeaturedItem
-        title: Feature Item One
+        title: Analisis datos
         tagline: Analisis datos
         subtitle: Inteligencia de negocios
         text: >
