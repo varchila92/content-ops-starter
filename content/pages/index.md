@@ -216,11 +216,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: con nosotros
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Con nosotros, tu negocio crecerá 10 veces más rápido gracias a nuestras
+      soluciones innovadoras y personalizadas. Combinamos tecnología de punta
+      con estrategias probadas para acelerar tu rendimiento, optimizar procesos
+      y maximizar el impacto de tus inversiones.
+
     badge:
       label: BENEFICIOS CLAVES
       color: text-primary
