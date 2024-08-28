@@ -150,7 +150,7 @@ sections:
         textAlign: center
   - subtitle: Empresas que confían en nosotros.
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Grupo David logo-modified.webp
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
