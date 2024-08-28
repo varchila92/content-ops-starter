@@ -86,7 +86,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Captura de pantalla 2024-08-27 135959.png
           altText: Placeholder text
           styles:
             self:
