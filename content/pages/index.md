@@ -165,7 +165,7 @@ sections:
       - url: /images/organica_logo.jpg
         altText: ORGANICA
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/CU logo.jpg
         altText: CLUB UNION
         type: ImageBlock
       - url: /images/rangle-logo.svg
