@@ -159,7 +159,7 @@ sections:
       - url: /images/pluxee.jpg
         altText: PLUXEE
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/banesco.jpg
         altText: BANESCO
         type: ImageBlock
       - url: /images/contenful-logo.svg
