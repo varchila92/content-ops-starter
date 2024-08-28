@@ -152,7 +152,7 @@ sections:
     images:
       - altText: GRUPO DAVID
         type: ImageBlock
-        url: /images/gd_logo.jpg
+        url: /images/gd_logo (1).jpg
       - url: /images/sp_logo (1).jpg
         altText: SUPERPISOS
         type: ImageBlock
