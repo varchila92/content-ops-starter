@@ -168,7 +168,7 @@ sections:
       - url: /images/CU logo.jpg
         altText: CLUB UNION
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/yappy_logo.jpg
         altText: YAPPY
         type: ImageBlock
     motion: move-to-left
