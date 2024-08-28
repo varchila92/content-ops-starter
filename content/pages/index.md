@@ -434,56 +434,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |
-      **Víctor Archila**
+    text: |+
+      **Víctor Archila - Arquitecto de Soluciones**
 
-      **Arquitecto de Soluciones**
-      [varchila92@gmail.com]()
-      +507 6459-3801
-      Panamá, Ciudad de Panamá
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Nombre
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Correo electrónico
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: mensaje
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Enviar
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
+      *   [varchila92@gmail.com]()
+
+      *   +507 6459-3801
+
+      *   Panamá, Ciudad de Panamá
+
     badge:
       label: CONTACTANOS
       color: text-primary
