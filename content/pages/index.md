@@ -162,7 +162,7 @@ sections:
       - url: /images/banesco.jpg
         altText: BANESCO
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/organica_logo.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
