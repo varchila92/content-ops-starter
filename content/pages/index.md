@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Desbloquea a tu equipo y acelera tu tiempo productivo
+      text: Desbloquea tu equipo y acelera tu tiempo productivo
       color: text-dark
       type: TitleBlock
     subtitle: desarrollamos soluciones
@@ -148,28 +148,28 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Empresas que confían en nosotros.
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - altText: GRUPO DAVID
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+        url: /images/gd_logo (1).jpg
+      - url: /images/sp_logo (1).jpg
+        altText: SUPERPISOS
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - url: /images/pluxee.jpg
+        altText: PLUXEE
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+      - url: /images/banesco.jpg
+        altText: BANESCO
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - url: /images/organica_logo.jpg
+        altText: ORGANICA
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - url: /images/CU logo.jpg
+        altText: CLUB UNION
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - url: /images/yappy_logo.jpg
+        altText: YAPPY
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -179,25 +179,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -209,40 +190,22 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Haz crecer tu negocio 10 veces más
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
+    subtitle: con nosotros
+    text: >+
+
+      Con nosotros, tu negocio crecerá 10 veces más rápido gracias a nuestras
+      soluciones innovadoras y personalizadas. Combinamos tecnología de punta
+      con estrategias probadas para acelerar tu rendimiento, optimizar procesos
+      y maximizar el impacto de tus inversiones.
+
     badge:
-      label: Key Benefits
+      label: BENEFICIOS CLAVES
       color: text-primary
       styles:
         self:
@@ -256,120 +219,14 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
+    media:
+      type: ImageBlock
+      url: /images/HM-UMOptimization1.jpg
+      altText: Image alt text placeholder
+      elementId: ''
       styles:
         self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
+          borderRadius: medium
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -573,127 +430,36 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
-  - title:
-      text: Generic Section With A Form
+      text: INFORMACION DE CONTACTO
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: |
+      **Víctor Archila -**
+      **Arquitecto de Soluciones**
+      [varchila92@gmail.com |]()
+      +507 6459-3801
+      Panamá, Ciudad de Panamá
     media:
       fields:
         - name: name
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Nombre
           isRequired: true
           width: full
           type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Correo electrónico
           isRequired: true
           width: full
           type: EmailFormControl
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: mensaje
           width: full
           type: TextareaFormControl
       elementId: contact-form
@@ -718,7 +484,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: CONTACTANOS
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -726,7 +492,7 @@ sections:
 seo:
   metaTitle: vDevCodes
   metaDescription: Este es un sitio increíble para desarrollar
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Captura de pantalla 2024-08-27 121038.png
   type: Seo
 type: PageLayout
 ---
