@@ -169,7 +169,7 @@ sections:
         altText: CLUB UNION
         type: ImageBlock
       - url: /images/rangle-logo.svg
-        altText: Rangle logo
+        altText: YAPPY
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
