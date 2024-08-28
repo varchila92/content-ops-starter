@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Desbloquea a tu equipo y acelera tu tiempo productivo
+      text: Desbloquea tu equipo y acelera tu tiempo productivo
       color: text-dark
       type: TitleBlock
     subtitle: desarrollamos soluciones
