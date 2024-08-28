@@ -111,7 +111,7 @@ sections:
           mejorando la interoperabilidad de tus aplicaciones.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Captura de pantalla 2024-08-27 230526.png
           altText: Placeholder text
           styles:
             self:
