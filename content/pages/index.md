@@ -81,7 +81,7 @@ sections:
       - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Inteligencia de negocios
         text: >
           Transforma tus datos en decisiones estratégicas con nuestro análisis
           de datos e inteligencia de negocios. Proporcionamos información
