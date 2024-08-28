@@ -148,7 +148,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Empresas que confían en nosotros.
+  - subtitle: EMPRESAS QUE CONFIAN EN NOSOTROS
     images:
       - altText: GRUPO DAVID
         type: ImageBlock
