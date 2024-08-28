@@ -163,7 +163,7 @@ sections:
         altText: BANESCO
         type: ImageBlock
       - url: /images/organica_logo.jpg
-        altText: Contentful logo
+        altText: ORGANICA
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
