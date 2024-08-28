@@ -156,7 +156,7 @@ sections:
       - url: /images/sp_logo (1).jpg
         altText: SUPERPISOS
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/pluxee.jpg
         altText: PLUXEE
         type: ImageBlock
       - url: /images/telus-logo.svg
