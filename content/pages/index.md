@@ -80,7 +80,7 @@ sections:
               borderRadius: x-large
       - type: FeaturedItem
         title: Feature Item One
-        tagline: This is the tagline
+        tagline: Analisis datos
         subtitle: Inteligencia de negocios
         text: >
           Transforma tus datos en decisiones estratégicas con nuestro análisis
