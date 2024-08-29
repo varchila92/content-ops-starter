@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Cotizacion",
-                "url": "/pricing",
+                "url": "/cotizar",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
