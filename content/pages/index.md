@@ -451,8 +451,8 @@ sections:
     type: GenericSection
 seo:
   metaTitle: vDevCodes
-  metaDescription: Este es un sitio increíble para desarrollar
-  socialImage: /images/Captura de pantalla 2024-08-27 121038.png
+  metaDescription: Este es un sitio increíble para desarrollar soluciones
+  socialImage: /images/logo_250x160.jpg
   type: Seo
 type: PageLayout
 ---
