@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Elige el Plan Perfecto para Tu Negocio
+    subtitle: Conoce el Plan Perfecto para Tu Negocio
     plans:
       - title: Developers
         price: Free
