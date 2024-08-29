@@ -69,7 +69,7 @@ sections:
 seo:
   metaTitle: Equipo - vDevCodes
   metaDescription: Equipos
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/vDevCodes.jpg
   type: Seo
 type: PageLayout
 ---
