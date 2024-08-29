@@ -41,7 +41,7 @@
         "links": [
             {
                 "label": "Equipo",
-                "altText": "careers page",
+                "altText": "Equipo",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
