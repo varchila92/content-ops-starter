@@ -49,7 +49,7 @@ sections:
         features:
           - 'Fácil de Usar: Canjea tus bonos digitales con un simple escaneo.'
           - 'Transacciones Seguras: Protección avanzada de datos en cada pago.'
-          - Feature three
+          - 'Conveniencia: Accede a tus bonos desde cualquier dispositivo móvil.'
           - Feature four
         image:
           url: /images/PluxeeQR.jpg
