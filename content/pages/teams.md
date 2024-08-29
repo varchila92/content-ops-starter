@@ -1,5 +1,5 @@
 ---
-title: teams
+title: Teams
 slug: teams
 sections:
   - title:
