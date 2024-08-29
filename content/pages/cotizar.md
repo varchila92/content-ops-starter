@@ -78,7 +78,7 @@ sections:
           - Innovadora
           - Flexible
           - Robusta
-          - Feature five
+          - Confiable
         image:
           url: /images/vDevCodes.jpg
           altText: Pricing plan 3
