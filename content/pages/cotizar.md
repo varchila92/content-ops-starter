@@ -21,7 +21,7 @@ sections:
           dispositivo móvil.
         features:
           - 'Rápido y Fácil: Paga en segundos escaneando un QR.'
-          - Feature two
+          - 'Seguro: Protege tus datos con tecnología de encriptación avanzada.'
           - Feature three
           - Feature four
         image:
