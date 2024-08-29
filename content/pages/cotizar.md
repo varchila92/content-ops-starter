@@ -102,7 +102,7 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Cotizar
+  metaTitle: Cotizar - vDevCodes
   metaDescription: Este es un sitio increible para cotizar soluciones
   socialImage: /images/main-hero.jpg
   type: Seo
