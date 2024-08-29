@@ -185,7 +185,7 @@ sections:
       self:
         justifyContent: center
       subtitle:
-        textAlign: justify
+        textAlign: center
         fontWeight: 700
     type: ImageGallerySection
   - title: Divider
