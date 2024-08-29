@@ -19,13 +19,7 @@ sections:
       nuestro equipo es la base sólida sobre la que se construyen nuestras
       soluciones y nuestro éxito. ¡Conoce a las personas que hacen posible todo
       lo que logramos!
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
