@@ -68,7 +68,7 @@ sections:
     type: FeaturedPeopleSection
 seo:
   metaTitle: Equipo - vDevCodes
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: Equipos
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
