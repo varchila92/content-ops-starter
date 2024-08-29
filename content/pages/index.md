@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: justify
-    subtitle: desarrollamos soluciones
+    subtitle: DESARROLLAMOS SOLUCIONES
     text: >
       Nuestros servicios de desarrollo a medida se centran en crear aplicaciones
       y sistemas personalizados que resuelven tus desafíos específicos.
