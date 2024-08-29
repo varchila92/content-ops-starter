@@ -38,7 +38,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
+      - title: Integraciones
         price: Integracion PluxeeQR con ICG
         details: ''
         description: >
