@@ -79,6 +79,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: justify
       - type: FeaturedItem
         title: Análisis de datos
         tagline: ''
