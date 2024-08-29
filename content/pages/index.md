@@ -156,7 +156,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: EMPRESAS QUE CONFIAN EN NOSOTROS
+  - subtitle: EMPRESAS QUE CONFIAN EN VDEVCODES
     images:
       - altText: GRUPO DAVID
         type: ImageBlock
