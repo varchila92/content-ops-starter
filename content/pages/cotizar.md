@@ -1,6 +1,6 @@
 ---
 title: Cotizar
-slug: pricing
+slug: cotizar
 sections:
   - title:
       text: Flexible Pricing
