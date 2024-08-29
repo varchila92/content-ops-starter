@@ -76,7 +76,7 @@ sections:
         features:
           - Escalable
           - Innovadora
-          - Feature three
+          - Flexible
           - Feature four
           - Feature five
         image:
