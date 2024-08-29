@@ -14,9 +14,11 @@ sections:
       - title: Integraciones
         price: Integracion YappyQR con ICG
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+
+          **YappyQR** es una solución de pago en línea rápida y segura que te
+          permite realizar transacciones con solo escanear un código QR desde tu
+          dispositivo móvil.
         features:
           - Feature one
           - Feature two
