@@ -30,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Team",
+            "label": "Equipo",
             "altText": "Teams page",
             "url": "/teams",
             "icon": "arrowRight",
