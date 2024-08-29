@@ -47,7 +47,7 @@ sections:
           uso de bonos digitales mediante el escaneo de un código QR,
           permitiendo transacciones rápidas y seguras.
         features:
-          - Feature one
+          - 'Fácil de Usar: Canjea tus bonos digitales con un simple escaneo.'
           - Feature two
           - Feature three
           - Feature four
