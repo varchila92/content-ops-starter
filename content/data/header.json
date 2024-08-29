@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Cotizacion",
-            "url": "/pricing",
+            "url": "/cotizacion",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
