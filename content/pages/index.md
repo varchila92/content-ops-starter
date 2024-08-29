@@ -437,7 +437,7 @@ sections:
     text: |+
       **Víctor Archila - Arquitecto de Soluciones**
 
-      *   [varchila92@gmail.com]()
+      *   [victor.archila@vdevcodes.com]()
 
       *   +507 6459-3801
 
