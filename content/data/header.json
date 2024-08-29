@@ -13,12 +13,13 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Cotizacion",
+            "url": "/cotizacion",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Cotizacion"
         },
         {
             "label": "Blog",
@@ -30,9 +31,9 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Equipo",
+            "altText": "Teams page",
+            "url": "/teams",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
