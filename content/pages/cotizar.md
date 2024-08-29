@@ -78,7 +78,7 @@ sections:
           - Feature four
           - Feature five
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/vDevCodes.jpg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
