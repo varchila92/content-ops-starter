@@ -20,7 +20,7 @@ sections:
           permite realizar transacciones con solo escanear un código QR desde tu
           dispositivo móvil.
         features:
-          - Feature one
+          - 'Rápido y Fácil: Paga en segundos escaneando un QR.'
           - Feature two
           - Feature three
           - Feature four
