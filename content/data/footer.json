@@ -42,7 +42,7 @@
             {
                 "label": "Equipo",
                 "altText": "Equipo",
-                "url": "/careers",
+                "url": "/teams",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
