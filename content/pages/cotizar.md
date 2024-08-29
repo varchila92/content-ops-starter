@@ -83,13 +83,7 @@ sections:
           url: /images/vDevCodes.jpg
           altText: Pricing plan 3
           type: ImageBlock
-        actions:
-          - label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
