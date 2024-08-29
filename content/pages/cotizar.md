@@ -104,7 +104,7 @@ sections:
 seo:
   metaTitle: Cotizar - vDevCodes
   metaDescription: Este es un sitio increible para cotizar soluciones
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/vDevCodes.jpg
   type: Seo
 type: PageLayout
 ---
