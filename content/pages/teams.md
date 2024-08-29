@@ -11,11 +11,14 @@ sections:
       type: TitleBlock
     subtitle: 'Nuestro Equipo, Nuestra Fortaleza'
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+
+      En nuestra empresa, creemos que el éxito se construye a través de la
+      colaboración y el trabajo en equipo. Cada miembro aporta su experiencia y
+      pasión, y juntos trabajamos estrechamente para alcanzar nuestros objetivos
+      comunes. Con una comunicación abierta y un enfoque en la innovación,
+      nuestro equipo es la base sólida sobre la que se construyen nuestras
+      soluciones y nuestro éxito. ¡Conoce a las personas que hacen posible todo
+      lo que logramos!
     actions:
       - label: See open positions
         url: /
