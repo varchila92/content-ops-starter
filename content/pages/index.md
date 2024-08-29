@@ -7,7 +7,10 @@ sections:
       text: Impulsa tu equipo y acelera tu tiempo productivo
       color: text-dark
       type: TitleBlock
-    subtitle: desarrollamos soluciones
+      styles:
+        self:
+          textAlign: justify
+    subtitle: DESARROLLAMOS SOLUCIONES
     text: >
       Nuestros servicios de desarrollo a medida se centran en crear aplicaciones
       y sistemas personalizados que resuelven tus desafíos específicos.
@@ -36,7 +39,9 @@ sections:
           - pr-16
       subtitle:
         fontWeight: 700
-        textAlign: left
+        textAlign: justify
+      text:
+        textAlign: justify
   - type: FeaturedItemsSection
     title:
       text: SERVICIOS
@@ -74,8 +79,9 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: justify
       - type: FeaturedItem
-        title: Analisis datos
+        title: Análisis de datos
         tagline: ''
         subtitle: Inteligencia de negocios
         text: >
@@ -101,6 +107,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: justify
       - type: FeaturedItem
         title: Integración
         tagline: ''
@@ -127,9 +134,10 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: justify
     actions: []
     badge:
-      label: acerca de nuestros
+      label: nuestros
       color: text-primary
       styles:
         self:
@@ -148,7 +156,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: EMPRESAS QUE CONFIAN EN NOSOTROS
+  - subtitle: EMPRESAS QUE CONFIAN EN VDEVCODES
     images:
       - altText: GRUPO DAVID
         type: ImageBlock
@@ -178,6 +186,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
     type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
@@ -218,6 +227,8 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+      text:
+        textAlign: justify
     type: GenericSection
     media:
       type: ImageBlock
