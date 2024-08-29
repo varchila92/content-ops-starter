@@ -103,7 +103,7 @@ sections:
     type: PricingSection
 seo:
   metaTitle: Cotizar
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: Este es un sitio increible para cotizar sol
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
