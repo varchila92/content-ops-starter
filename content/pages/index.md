@@ -58,7 +58,7 @@ sections:
           fluida y segura.
         image:
           type: ImageBlock
-          url: /images/Captura de pantalla 2024-08-27 135801.png
+          url: /images/icon1.jpg
           altText: Placeholder text
           styles:
             self:
