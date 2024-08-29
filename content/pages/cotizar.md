@@ -23,7 +23,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/product1_yappy.jpg
+          url: /images/YappyQr.jpg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
