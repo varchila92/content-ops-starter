@@ -74,7 +74,7 @@ sections:
           únicas y personalizadas que se adaptan perfectamente a las necesidades
           y objetivos de tu negocio, garantizando eficiencia y escalabilidad.
         features:
-          - Feature one
+          - Escalable
           - Feature two
           - Feature three
           - Feature four
