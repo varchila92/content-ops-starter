@@ -39,7 +39,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Professional
-        price: $99
+        price: Integracion PluxeeQR con ICG
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
