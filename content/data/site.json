@@ -1,8 +1,8 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/vDevCodes.jpg",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "titleSuffix": "vDevCodes",
+    "defaultSocialImage": "/images/vDevCodes.jpg",
     "type": "Config",
     "header": "content/data/header.json"
 }
