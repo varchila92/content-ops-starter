@@ -3,7 +3,7 @@ title: Cotizar
 slug: cotizar
 sections:
   - title:
-      text: Precios Flexibles
+      text: Cotizaciones Flexibles
       color: text-dark
       styles:
         self:
