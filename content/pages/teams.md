@@ -3,7 +3,7 @@ title: teams
 slug: teams
 sections:
   - title:
-      text: A team that works closely together
+      text: Un equipo que trabaja estrechamente junto
       color: text-dark
       styles:
         self:
