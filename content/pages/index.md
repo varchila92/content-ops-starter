@@ -137,7 +137,7 @@ sections:
             textAlign: justify
     actions: []
     badge:
-      label: acerca de nuestros
+      label: nuestros
       color: text-primary
       styles:
         self:
