@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Desbloquea tu equipo y acelera tu tiempo productivo
+      text: Impulsa tu equipo y acelera tu tiempo productivo
       color: text-dark
       type: TitleBlock
     subtitle: desarrollamos soluciones
@@ -58,7 +58,7 @@ sections:
           fluida y segura.
         image:
           type: ImageBlock
-          url: /images/Captura de pantalla 2024-08-27 135801.png
+          url: /images/icon1.jpg
           altText: Placeholder text
           styles:
             self:
@@ -85,7 +85,7 @@ sections:
           crecimiento.
         image:
           type: ImageBlock
-          url: /images/Captura de pantalla 2024-08-27 135959.png
+          url: /images/icon2.jpg
           altText: Placeholder text
           styles:
             self:
@@ -111,7 +111,7 @@ sections:
           mejorando la interoperabilidad de tus aplicaciones.
         image:
           type: ImageBlock
-          url: /images/Captura de pantalla 2024-08-27 230526.png
+          url: /images/icon3.jpg
           altText: Placeholder text
           styles:
             self:
