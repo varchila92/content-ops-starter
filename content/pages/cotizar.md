@@ -68,9 +68,11 @@ sections:
       - title: Desarollos
         price: A Medida
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+
+          Nuestro servicio de desarrollo a medida crea soluciones tecnológicas
+          únicas y personalizadas que se adaptan perfectamente a las necesidades
+          y objetivos de tu negocio, garantizando eficiencia y escalabilidad.
         features:
           - Feature one
           - Feature two
