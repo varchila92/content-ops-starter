@@ -6,28 +6,11 @@
     },
     "text": "",
     "primaryLinks": {
-        "title": "Product",
+        "title": "ProductOS",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
+                "label": "Cotizacion",
+                "url": "/cotizar",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -37,12 +20,12 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "COMPAÑIA",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "Equipo",
+                "altText": "Equipo",
+                "url": "/teams",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
