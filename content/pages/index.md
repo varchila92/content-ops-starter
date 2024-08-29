@@ -39,7 +39,7 @@ sections:
           - pr-16
       subtitle:
         fontWeight: 700
-        textAlign: left
+        textAlign: justify
       text:
         textAlign: justify
   - type: FeaturedItemsSection
