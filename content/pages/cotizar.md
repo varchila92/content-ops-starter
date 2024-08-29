@@ -22,7 +22,7 @@ sections:
         features:
           - 'Rápido y Fácil: Paga en segundos escaneando un QR.'
           - 'Seguro: Protege tus datos con tecnología de encriptación avanzada.'
-          - Feature three
+          - 'Sin Contacto: Realiza pagos sin necesidad de tocar terminales.'
           - Feature four
         image:
           url: /images/YappyQr.jpg
