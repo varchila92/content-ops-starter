@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Cotizar
 slug: pricing
 sections:
   - title:
