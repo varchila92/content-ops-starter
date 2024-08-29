@@ -1,7 +1,8 @@
 {
     "logo": {
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/logo_grey_300x200.jpg"
     },
     "text": "vDevCodes\n",
     "primaryLinks": {
