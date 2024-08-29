@@ -80,7 +80,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Analisis datos
+        title: Análisis de datos
         tagline: ''
         subtitle: Inteligencia de negocios
         text: >
