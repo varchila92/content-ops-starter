@@ -26,13 +26,7 @@ sections:
           url: /images/YappyQr.jpg
           altText: Pricing plan 1
           type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
