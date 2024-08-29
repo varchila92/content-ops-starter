@@ -134,6 +134,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: justify
     actions: []
     badge:
       label: acerca de nuestros
