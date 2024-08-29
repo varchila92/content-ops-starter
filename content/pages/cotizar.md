@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Conoce el Plan Perfecto para Tu Negocio
+    subtitle: Conoce el Producto para Tu Negocio
     plans:
       - title: Integraciones
         price: Integracion YappyQR con ICG
