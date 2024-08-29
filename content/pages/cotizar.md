@@ -103,7 +103,7 @@ sections:
     type: PricingSection
 seo:
   metaTitle: Cotizar
-  metaDescription: Este es un sitio increible para cotizar sol
+  metaDescription: Este es un sitio increible para cotizar soluciones
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
