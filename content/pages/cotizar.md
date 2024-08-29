@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Conoce el Plan Perfecto para Tu Negocio
     plans:
-      - title: Developers
+      - title: Integraciones
         price: Integracion YappyQR con ICG
         details: No credit card required
         description: >-
