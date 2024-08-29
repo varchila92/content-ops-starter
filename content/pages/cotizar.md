@@ -48,7 +48,7 @@ sections:
           permitiendo transacciones rápidas y seguras.
         features:
           - 'Fácil de Usar: Canjea tus bonos digitales con un simple escaneo.'
-          - Feature two
+          - 'Transacciones Seguras: Protección avanzada de datos en cada pago.'
           - Feature three
           - Feature four
         image:
