@@ -9,12 +9,13 @@
         "title": "ProductOS",
         "links": [
             {
-                "label": "Cotizacion",
+                "label": "Cotizar",
                 "url": "/cotizar",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Cotizar"
             }
         ],
         "type": "FooterLinksGroup"

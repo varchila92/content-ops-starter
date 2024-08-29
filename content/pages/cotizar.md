@@ -38,28 +38,23 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Integraciones
+        price: Integracion PluxeeQR con ICG
+        details: ''
+        description: >
+
+          PluxeeQR es una innovadora solución de pago en línea que facilita el
+          uso de bonos digitales mediante el escaneo de un código QR,
+          permitiendo transacciones rápidas y seguras.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - 'Fácil de Usar: Canjea tus bonos digitales con un simple escaneo.'
+          - 'Transacciones Seguras: Protección avanzada de datos en cada pago.'
+          - 'Conveniencia: Accede a tus bonos desde cualquier dispositivo móvil.'
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/PluxeeQR.jpg
           altText: Pricing plan 2
           type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -70,29 +65,25 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+      - title: Desarollos
+        price: A Medida
+        details: ''
+        description: >
+
+          Nuestro servicio de desarrollo a medida crea soluciones tecnológicas
+          únicas y personalizadas que se adaptan perfectamente a las necesidades
+          y objetivos de tu negocio, garantizando eficiencia y escalabilidad.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - Escalable
+          - Innovadora
+          - Flexible
+          - Robusta
+          - Confiable
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/vDevCodes.jpg
           altText: Pricing plan 3
           type: ImageBlock
-        actions:
-          - label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:

@@ -13,7 +13,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Cotizacion",
+            "label": "Cotizar",
             "url": "/cotizar",
             "icon": "arrowRight",
             "iconPosition": "right",
