@@ -41,9 +41,11 @@ sections:
       - title: Professional
         price: Integracion PluxeeQR con ICG
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+
+          PluxeeQR es una innovadora solución de pago en línea que facilita el
+          uso de bonos digitales mediante el escaneo de un código QR,
+          permitiendo transacciones rápidas y seguras.
         features:
           - Feature one
           - Feature two
