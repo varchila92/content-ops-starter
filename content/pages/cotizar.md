@@ -75,7 +75,7 @@ sections:
           y objetivos de tu negocio, garantizando eficiencia y escalabilidad.
         features:
           - Escalable
-          - Feature two
+          - Innovadora
           - Feature three
           - Feature four
           - Feature five
