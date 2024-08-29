@@ -66,7 +66,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Desarollos
-        price: Custom
+        price: A Medida
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
