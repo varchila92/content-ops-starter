@@ -77,7 +77,7 @@ sections:
           - Escalable
           - Innovadora
           - Flexible
-          - Feature four
+          - Robusta
           - Feature five
         image:
           url: /images/vDevCodes.jpg
