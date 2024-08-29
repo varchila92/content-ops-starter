@@ -451,7 +451,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: vDevCodes
-  metaDescription: Este es un sitio increíble para desarrollar
+  metaDescription: Este es un sitio increíble para desarrollar soluciones
   socialImage: /images/logo_250x160.jpg
   type: Seo
 type: PageLayout
