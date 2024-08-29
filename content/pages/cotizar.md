@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Elige el Plan Perfecto para Tu Negocio
     plans:
       - title: Developers
         price: Free
