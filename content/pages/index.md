@@ -40,6 +40,8 @@ sections:
       subtitle:
         fontWeight: 700
         textAlign: left
+      text:
+        textAlign: justify
   - type: FeaturedItemsSection
     title:
       text: SERVICIOS
