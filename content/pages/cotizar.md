@@ -40,7 +40,7 @@ sections:
         type: PricingPlan
       - title: Professional
         price: Integracion PluxeeQR con ICG
-        details: per month
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
