@@ -50,7 +50,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/PluxeeQR.jpg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
