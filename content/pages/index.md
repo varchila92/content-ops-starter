@@ -7,6 +7,9 @@ sections:
       text: Impulsa tu equipo y acelera tu tiempo productivo
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: justify
     subtitle: desarrollamos soluciones
     text: >
       Nuestros servicios de desarrollo a medida se centran en crear aplicaciones
