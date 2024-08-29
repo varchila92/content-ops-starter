@@ -85,7 +85,7 @@ sections:
           crecimiento.
         image:
           type: ImageBlock
-          url: /images/Captura de pantalla 2024-08-27 135959.png
+          url: /images/icon2.jpg
           altText: Placeholder text
           styles:
             self:
