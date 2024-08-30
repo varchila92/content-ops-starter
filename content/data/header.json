@@ -22,15 +22,6 @@
             "altText": "Cotizacion"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Equipo",
             "altText": "Teams page",
             "url": "/teams",
