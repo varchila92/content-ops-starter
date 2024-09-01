@@ -98,9 +98,11 @@ sections:
         title: Integraciones
         price: Integracion Crediviva con ICG
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+
+          Crediviva es una plataforma de crédito que ofrece préstamos rápidos y
+          accesibles, diseñada para facilitar el acceso a financiamiento a
+          personas y pequeñas empresas.
         features:
           - Feature one
           - Feature two
