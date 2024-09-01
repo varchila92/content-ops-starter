@@ -104,7 +104,9 @@ sections:
           accesibles, diseñada para facilitar el acceso a financiamiento a
           personas y pequeñas empresas.
         features:
-          - Feature one
+          - >-
+            Aprobación Rápida: Obtén tu préstamo en minutos con un proceso de
+            evaluación eficiente.
           - Feature two
           - Feature three
           - Feature four
