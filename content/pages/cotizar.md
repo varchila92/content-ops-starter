@@ -65,6 +65,36 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
+      - type: PricingPlan
+        title: Integraciones
+        price: Integracion Crediviva con ICG
+        details: ''
+        description: >
+
+          Crediviva es una plataforma de crédito que ofrece préstamos rápidos y
+          accesibles, diseñada para facilitar el acceso a financiamiento a
+          personas y pequeñas empresas.
+        features:
+          - >-
+            Aprobación Rápida: Obtén tu préstamo en minutos con un proceso de
+            evaluación eficiente.
+          - >-
+            Interfaz Intuitiva: Plataforma fácil de usar, diseñada para
+            gestionar tus créditos sin complicaciones.
+        image:
+          type: ImageBlock
+          url: /images/Crediviva.jpg
+          altText: Pricing plan 1
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
       - title: Desarollos
         price: A Medida
         details: ''
