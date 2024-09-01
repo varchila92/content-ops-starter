@@ -110,7 +110,9 @@ sections:
           - >-
             Interfaz Intuitiva: Plataforma fácil de usar, diseñada para
             gestionar tus créditos sin complicaciones.
-          - Feature three
+          - >-
+            Condiciones Flexibles: Planes de pago adaptados a tus necesidades
+            financieras.
           - Feature four
         image:
           type: ImageBlock
