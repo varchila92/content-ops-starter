@@ -65,35 +65,6 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Desarollos
-        price: A Medida
-        details: ''
-        description: >
-
-          Nuestro servicio de desarrollo a medida crea soluciones tecnológicas
-          únicas y personalizadas que se adaptan perfectamente a las necesidades
-          y objetivos de tu negocio, garantizando eficiencia y escalabilidad.
-        features:
-          - Escalable
-          - Innovadora
-          - Flexible
-          - Robusta
-          - Confiable
-        image:
-          url: /images/vDevCodes.jpg
-          altText: Pricing plan 3
-          type: ImageBlock
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
       - type: PricingPlan
         title: Integraciones
         price: Integracion Crediviva con ICG
@@ -130,6 +101,35 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
+      - title: Desarollos
+        price: A Medida
+        details: ''
+        description: >
+
+          Nuestro servicio de desarrollo a medida crea soluciones tecnológicas
+          únicas y personalizadas que se adaptan perfectamente a las necesidades
+          y objetivos de tu negocio, garantizando eficiencia y escalabilidad.
+        features:
+          - Escalable
+          - Innovadora
+          - Flexible
+          - Robusta
+          - Confiable
+        image:
+          url: /images/vDevCodes.jpg
+          altText: Pricing plan 3
+          type: ImageBlock
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+        type: PricingPlan
     colors: bg-light-fg-dark
     styles:
       self:
