@@ -120,13 +120,7 @@ sections:
           type: ImageBlock
           url: /images/Crediviva.jpg
           altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
