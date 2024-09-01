@@ -107,7 +107,9 @@ sections:
           - >-
             Aprobación Rápida: Obtén tu préstamo en minutos con un proceso de
             evaluación eficiente.
-          - Feature two
+          - >-
+            Interfaz Intuitiva: Plataforma fácil de usar, diseñada para
+            gestionar tus créditos sin complicaciones.
           - Feature three
           - Feature four
         image:
