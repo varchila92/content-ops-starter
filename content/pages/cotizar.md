@@ -113,7 +113,9 @@ sections:
           - >-
             Condiciones Flexibles: Planes de pago adaptados a tus necesidades
             financieras.
-          - Feature four
+          - >-
+            Atención Personalizada: Soporte al cliente disponible para ayudarte
+            en cada paso del proceso.
         image:
           type: ImageBlock
           url: /images/Crediviva.jpg
