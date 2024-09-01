@@ -95,7 +95,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - type: PricingPlan
-        title: Developers
+        title: Integraciones
         price: Free
         details: No credit card required
         description: >-
