@@ -97,7 +97,7 @@ sections:
       - type: PricingPlan
         title: Integraciones
         price: Integracion Crediviva con ICG
-        details: No credit card required
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
