@@ -81,9 +81,6 @@ sections:
           - >-
             Interfaz Intuitiva: Plataforma fácil de usar, diseñada para
             gestionar tus créditos sin complicaciones.
-          - >-
-            Condiciones Flexibles: Planes de pago adaptados a tus necesidades
-            financieras.
         image:
           type: ImageBlock
           url: /images/Crediviva.jpg
