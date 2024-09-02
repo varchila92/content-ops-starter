@@ -3,7 +3,7 @@ title: Teams
 slug: teams
 sections:
   - title:
-      text: UN EQUIPO QUE TRABAJA ESTRECHAMENTE JUNTO
+      text: UN EQUIPO QUE TRABAJA ESTRECHAMENTE UNIDO
       color: text-dark
       styles:
         self:
