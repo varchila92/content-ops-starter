@@ -256,7 +256,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://neopunch.s3.us-east-2.amazonaws.com/yappy_boton_pago.mp4'
       autoplay: true
       loop: true
       muted: true
