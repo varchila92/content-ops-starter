@@ -247,11 +247,13 @@ sections:
         self:
           textAlign: left
     subtitle: Yappy - ICG
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Hemos implementado la integración del botón de pago Yappy para ICG,
+      brindando una solución rápida y segura. Con esta integración, los
+      comercios pueden generar solicitudes de pago a través del número de
+      celular del cliente, enviando el cargo directamente a su cuenta de Yappy.
+      El cliente solo necesita aprobar la solicitud desde su dispositivo móvil,
+      mejorando la experiencia de pago y optimizando los procesos de venta.
     actions: []
     media:
       type: VideoBlock
