@@ -238,6 +238,50 @@ sections:
       styles:
         self:
           borderRadius: medium
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Demo Yappy Solicitud de Pago
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: Yappy - ICG
+    text: >
+      Hemos implementado la integración del botón de pago Yappy para ICG,
+      brindando una solución rápida y segura. Con esta integración, los
+      comercios pueden generar solicitudes de pago a través del número de
+      celular del cliente, enviando el cargo directamente a su cuenta de Yappy.
+      El cliente solo necesita aprobar la solicitud desde su dispositivo móvil,
+      mejorando la experiencia de pago y optimizando los procesos de venta.
+    actions: []
+    media:
+      type: VideoBlock
+      title: Yappy boton de pago
+      url: 'https://neopunch.s3.us-east-2.amazonaws.com/yappy_boton_pago.mp4'
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - title: Divider
     colors: bg-light-fg-dark
     styles:
