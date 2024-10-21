@@ -325,5 +325,6 @@ seo:
       property: 'og:site_name'
       content: vDevCodes
     - type: MetaTag
+      property: 'og:image:alt'
 type: PageLayout
 ---
