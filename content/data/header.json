@@ -13,16 +13,16 @@
     },
     "primaryLinks": [
         {
-            "label": "Cotizar",
+            "label": "PRODUCTOS",
             "url": "/cotizar",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
-            "altText": "Cotizacion"
+            "altText": "PRODUCTOS"
         },
         {
-            "label": "Equipo",
+            "label": "EQUIPO",
             "altText": "Teams page",
             "url": "/teams",
             "icon": "arrowRight",
