@@ -326,5 +326,6 @@ seo:
       content: vDevCodes
     - type: MetaTag
       property: 'og:image:alt'
+      content: 'https://vdevcodes.com/images/vDevCodes.jpg'
 type: PageLayout
 ---
