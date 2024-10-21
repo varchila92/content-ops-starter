@@ -317,5 +317,7 @@ seo:
   metaDescription: Este es un sitio increíble para desarrollar soluciones
   socialImage: /images/vDevCodes.jpg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
