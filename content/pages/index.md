@@ -313,7 +313,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Inicio - vDevCodes
+  metaTitle: vDevCodes
   metaDescription: Este es un sitio increíble para desarrollar soluciones
   socialImage: /images/vDevCodes.jpg
   type: Seo
