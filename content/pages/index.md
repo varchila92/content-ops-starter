@@ -323,5 +323,6 @@ seo:
       content: vDevCodes
     - type: MetaTag
       property: 'og:site_name'
+      content: vDevCodes
 type: PageLayout
 ---
