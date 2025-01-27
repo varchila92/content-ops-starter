@@ -198,46 +198,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Haz crecer tu negocio 10 veces más
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: con nosotros
-    text: >+
-
-      Con nosotros, tu negocio crecerá 10 veces más rápido gracias a nuestras
-      soluciones innovadoras y personalizadas. Combinamos tecnología de punta
-      con estrategias probadas para acelerar tu rendimiento, optimizar procesos
-      y maximizar el impacto de tus inversiones.
-
-    badge:
-      label: BENEFICIOS CLAVES
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: justify
-    type: GenericSection
-    media:
-      type: ImageBlock
-      url: /images/HM-UMOptimization1.jpg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
   - type: GenericSection
     title:
       type: TitleBlock
@@ -282,6 +242,60 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Contacta con NOSOTROS
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: FormBlock
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Tu Nombre
+          isRequired: true
+          width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Tu correo
+          isRequired: true
+          width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Enviar
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -292,26 +306,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: INFORMACION DE CONTACTO
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: |+
-      **Víctor Archila - Arquitecto de Soluciones**
-
-      *   [victor.archila@vdevcodes.com]()
-
-      *   +507 6459-3801
-
-      *   Panamá, Ciudad de Panamá
-
-    badge:
-      label: CONTACTANOS
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: vDevCodes
   metaDescription: Este es un sitio increíble para desarrollar soluciones
