@@ -33,6 +33,6 @@
     ],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-left",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-light-fg-dark",
     "type": "Header"
 }
