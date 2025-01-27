@@ -293,7 +293,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contactanos
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
   - title: Divider
