@@ -252,26 +252,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: INFORMACION DE CONTACTO
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: |+
-      **Víctor Archila - Arquitecto de Soluciones**
-
-      *   [victor.archila@vdevcodes.com]()
-
-      *   +507 6459-3801
-
-      *   Panamá, Ciudad de Panamá
-
-    badge:
-      label: CONTACTANOS
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: vDevCodes
   metaDescription: Este es un sitio increíble para desarrollar soluciones
