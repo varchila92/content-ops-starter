@@ -245,7 +245,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Contactanos
+      text: Contacta con NOSOTROS
       color: text-dark
     subtitle: ''
     text: ''
