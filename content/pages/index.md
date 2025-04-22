@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Impulsa tu equipo y acelera tu tiempo productivo
+      text: Impulsa tu equipo y acelera tu tiempo productivo ahora
       color: text-dark
       type: TitleBlock
       styles:
